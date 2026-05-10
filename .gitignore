@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# state (will be created by Phase 4)
+state.db
+
+# os
+.DS_Store
